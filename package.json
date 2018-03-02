@@ -1,0 +1,14 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "babel-plugin-invariant-location": "github:github/babel-plugin-transform-invariant-location#24c0894"
+  },
+  "author": "",
+  "license": "ISC"
+}
